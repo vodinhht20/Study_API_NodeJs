@@ -1,0 +1,43 @@
+
+// Buoi 1
+https://drive.google.com/file/d/13zXTD9ar91YPmLEmbx_4UdIYvK_V9AF-/view | Ok
+
+// Buoi 2
+https://drive.google.com/file/d/1t7wv2StyHx4qKgZ2vr_WBdMGxOeDJTUj/view | Ok
+
+// Buoi 3
+https://drive.google.com/file/d/1ZwXhBrL_ptfa80OI13tvw2_eb8onhPr3/view | Ok
+
+// Buoi 4
+https://drive.google.com/file/d/1t7wv2StyHx4qKgZ2vr_WBdMGxOeDJTUj/view | Ok
+
+// Buoi 5
+https://drive.google.com/file/d/1yHqWRlwA18SYa8TzZAKDfyfrNK4DbMaE/view | Ok
+
+// Buoi 6
+https://drive.google.com/file/d/16SAHC6iSa3jn-8qGM3rHdbylmDDH4bq_/view | Ok signin chưa ổn
+
+// Buoi 7
+https://drive.google.com/file/d/16kW6ZS8EAaHCWWFRtYi0ao-6U9lu3dez/view  | Ok
+
+// Buoi 8
+https://drive.google.com/file/d/1w1OdIos5zA8zWQH_Nzb4NEtBQpSIOUQL/view | Ok
+
+// Buoi 9
+https://drive.google.com/file/d/1wpgysJmA6xdSZneWqF5DlmcztQjWV_ih/view 
+
+// Buoi 10
+https://drive.google.com/file/d/194SjPyTxdoaaz4gRwNTaNu8HbETV-QLQ/view
+
+// Buoi 11
+https://drive.google.com/file/d/1sBU9fpJNK4m9hC2gKr3rF-Mhm-UYvLJx/view
+
+
+## Arrow function
+const vodinh = () => {
+
+}
+
+## Destructuring
+
+[a, b, ...rest] = [10, 20, 30, 40, 50];

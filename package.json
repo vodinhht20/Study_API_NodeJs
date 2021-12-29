@@ -1,0 +1,30 @@
+{
+  "name": "chatpoly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js --exec ./node_modules/.bin/babel-node src/index.js -e js"
+  },
+  "author": "vodinh",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "firebase": "^9.6.0",
+    "firebase-admin": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "slugify": "^1.6.3",
+    "uuid": "^8.3.2"
+  }
+}
